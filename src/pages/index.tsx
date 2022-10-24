@@ -1,5 +1,4 @@
 import styled from "@emotion/styled";
-import { useCallback, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
 import { ColorKey, getColor } from "../colors";

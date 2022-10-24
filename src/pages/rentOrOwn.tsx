@@ -46,7 +46,7 @@ export const RentOrOwnPage = () => {
   const interestAmountDisplay = fixedDecimals(interestAmount, 2);
 
   const principalAmount = mortgageMonthly - interestAmount;
-  const principalAmountDisplay = fixedDecimals(principalAmount, 2);
+  // const principalAmountDisplay = fixedDecimals(principalAmount, 2);
 
   const mortgageMonthlyDisplay = fixedDecimals(mortgageMonthly, 2);
 
